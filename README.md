@@ -81,7 +81,7 @@ For detailed documentation, please refer to [DOCUMENTATION.md](DOCUMENTATION.md)
 
 ## Support
 
-For support inquiries, please contact support@powertrade.com
+For support inquiries, please contact hello@sridarsri.com
 
 ## Collaboration
 
