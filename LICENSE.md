@@ -1,6 +1,6 @@
 # PowerTrade Proprietary License
 
-Copyright (c) 2024 PowerTrade. All Rights Reserved.
+Copyright (c) 2024-2030 SridarSri.com. All Rights Reserved.
 
 ## Terms and Conditions
 
@@ -57,8 +57,8 @@ Copyright (c) 2024 PowerTrade. All Rights Reserved.
     - No modification of this license shall be valid unless in writing.
 
 For licensing inquiries, please contact:
-licensing@powertrade.com
+hello@sridarsri.com
 
 UNAUTHORIZED COPYING, TRANSFERRING, OR REPRODUCTION OF THE CONTENTS OF THIS SOFTWARE, VIA ANY MEDIUM, IS STRICTLY PROHIBITED.
 
-ALL RIGHTS RESERVED © 2024 PowerTrade
+ALL RIGHTS RESERVED © 2025-2030 SridarSri.com
