@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="210c5e9e-fe02-4d9e-83b8-310b9724a3c5" name="dtc_dev" url="http://ftp.sridarsri.com">
+        <fileTransfer host="ftp.sridarsri.com" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

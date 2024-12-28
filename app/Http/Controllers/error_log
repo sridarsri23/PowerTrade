@@ -1,0 +1,1 @@
+[31-Aug-2016 00:06:54 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home2/mandenm/public_html/run/mma/app/Http/Controllers/AgentController.php on line 28
